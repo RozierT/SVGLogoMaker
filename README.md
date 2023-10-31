@@ -1,6 +1,31 @@
 # SVGLogoMaker
 SVG Logo Maker
 
+## Description
+
+This application allows the user to create simple SVG logos by answering a few prompted questions in the command line
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
+## Installation
+
+navigate to https://github.com/RozierT/SVGLogoMaker and copy the SSH key for the code into a local repository. Then run the npm install and npm run start commands to run the application in the command line
+
+## Usage
+
+Link to video of application on google drive: https://drive.google.com/file/d/1K0_0sHysKrOnw4-M6Fnz7KITQ9DB3UD9/view
+
+## License
+
+MIT
+
+---
+
+## Below are the instructions I was given for this assignment
 
 User Story
 AS a freelance web developer
